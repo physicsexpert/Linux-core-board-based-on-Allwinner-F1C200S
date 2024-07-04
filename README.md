@@ -16,6 +16,7 @@
 ## 关于固件
 
 ## 关于外壳
-
+外壳使用嘉立创eda专业版自带的外壳绘制功能进行设计，采用光固化树脂材料进行3D打印，当然如果你熟悉Solidworks这类建模软件的话，建议采用专业的建模软件设计外壳，使用fdm或者光固化打印机打印皆可，注意需要预留接口的位置。
 ## 参考工程
 ### https://github.com/peng-zhihui/Planck-Pi
+### https://github.com/maker-community/Planck-Pi-IoT
