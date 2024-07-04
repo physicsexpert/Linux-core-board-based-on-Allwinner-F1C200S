@@ -9,6 +9,8 @@
 ## 项目链接
 ### B站视频链接：https://www.bilibili.com/video/BV1Fh4y127X7/?spm_id_from=333.999.0.0&vd_source=4e3f44990520382b49c509f140bd3ce4
 ### 立创开源平台链接：https://oshwhub.com/expert/zi-zhi-planck-pi
+### csdn博客链接：https://blog.csdn.net/physicsexpert/article/details/131885853?spm=1001.2014.3001.5502
+
 ## 关于硬件
 本项目是一个基于全志F1C200s芯片的超迷你&低成本的Linux开发板，原理图来自稚晖君的planck-pi，稚晖君开源地址：https://github.com/peng-zhihui/Planck-Pi
 
