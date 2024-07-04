@@ -1,0 +1,1 @@
+软件代码和镜像文件的参考链接：https://github.com/maker-community/Planck-Pi-IoT
